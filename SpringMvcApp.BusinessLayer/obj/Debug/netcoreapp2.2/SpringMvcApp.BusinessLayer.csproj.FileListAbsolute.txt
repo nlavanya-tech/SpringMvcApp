@@ -1,0 +1,83 @@
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.deps.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.csproj.CopyComplete
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.BusinessLayer\obj\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb

@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.BusinessLayer\\SpringMvcApp.BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.BusinessLayer\\SpringMvcApp.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.BusinessLayer\\SpringMvcApp.BusinessLayer.csproj",
+        "projectName": "SpringMvcApp.BusinessLayer",
+        "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.BusinessLayer\\SpringMvcApp.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizruntime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\SpringMvcApp.DataLeyer.csproj": {
+                "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\SpringMvcApp.DataLeyer.csproj"
+              },
+              "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\SpringMvcApp.DataLeyer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\SpringMvcApp.DataLeyer.csproj",
+        "projectName": "SpringMvcApp.DataLeyer",
+        "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\SpringMvcApp.DataLeyer.csproj",
+        "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.DataLeyer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizruntime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj",
+        "projectName": "SpringMvcApp.Entities",
+        "projectPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\SpringMvcApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizruntime\\Downloads\\UserRegistration-DotnetCore--master\\SpringMvcApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bizruntime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

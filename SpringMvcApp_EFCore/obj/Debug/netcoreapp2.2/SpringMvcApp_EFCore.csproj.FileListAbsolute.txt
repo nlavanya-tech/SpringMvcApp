@@ -1,0 +1,254 @@
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsers.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CoreCompileInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsers.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsers.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsers.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\GetUser.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\DeleteUser.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\UpdateUser.g.cshtml.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsersForAdmin.g.cshtml.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.deps.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.runtimeconfig.dev.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.BusinessLayer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csprojAssemblyReference.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorAssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfoInputs.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.AssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.input.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.TagHelpers.output.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorCoreGenerate.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\AllUsersForAdmin.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\DeleteUser.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\GetUser.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Admin\UpdateUser.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\AllUsers.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\GetUser.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.RazorTargetAssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.Views.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.csproj.CopyComplete
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp_EFCore\obj\Debug\netcoreapp2.2\SpringMvcApp_EFCore.pdb

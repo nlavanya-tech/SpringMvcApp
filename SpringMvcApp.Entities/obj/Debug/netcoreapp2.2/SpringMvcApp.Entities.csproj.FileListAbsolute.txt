@@ -1,0 +1,50 @@
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csproj.CoreCompileInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.deps.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.csprojAssemblyReference.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfoInputs.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.AssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.Entities\obj\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb

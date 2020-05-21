@@ -1,0 +1,71 @@
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\source\repos\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CoreCompileInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+E:\Kavya\SpringMvcAppSqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\sqlite\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CoreCompileInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+\\winwebserver\Backup\March-2020\BCT\Kavya\SqlitewithTest\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\Kavya H\Desktop\kavya\SpringMvcApp_EFCore\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.deps.json
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\bin\Debug\netcoreapp2.2\SpringMvcApp.Entities.pdb
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csprojAssemblyReference.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfoInputs.cache
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.AssemblyInfo.cs
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.csproj.CopyComplete
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.dll
+C:\Users\bizruntime\Downloads\UserRegistration-DotnetCore--master\SpringMvcApp.DataLeyer\obj\Debug\netcoreapp2.2\SpringMvcApp.DataLeyer.pdb
